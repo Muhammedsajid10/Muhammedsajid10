@@ -10,7 +10,7 @@ I build practical web applications and REST APIs, with hands-on experience in bo
 
 | Project | What I worked on | Tech |
 | --- | --- | --- |
-| **[SPA Booking & Management — Backend](https://github.com/Muhammedsajid10/spaBackend)** | Booking APIs, appointment scheduling, employee operations, and payment-related backend integrations | Node.js, Express, MongoDB |
+| **[Allora / SPA Management — Latest Backend](https://github.com/novoxedtechllp-dotcom/spaBackLat)** | Contributed booking and employee scheduling backend changes in the organization's latest repository | Node.js, Express, MongoDB |
 | **[SPA Employee Dashboard](https://github.com/Muhammedsajid10/EmployeeSideSpa)** | React employee-facing application with authentication, schedules, and attendance workflows | React, Vite, REST APIs |
 | **[SmartDukaan](https://github.com/Muhammedsajid10/smartdukaan)** | In-progress mobile shop management platform with POS, inventory, and purchase workflows | React, TypeScript, Express, MongoDB |
 | **[WorkflowPro — Task Management API](https://github.com/Muhammedsajid10/WorkflowPro-Enterprise-Task-Management-API)** | Task management backend with role-based authorization and database models | Node.js, Express, Prisma, PostgreSQL |
@@ -18,7 +18,7 @@ I build practical web applications and REST APIs, with hands-on experience in bo
 
 ### Collaborative SPA customer application
 
-I also contributed to the [SPA Customer Booking App](https://github.com/novoxedtechllp-dotcom/spaUserLatest), including multi-service booking time calculations, UTC-to-local time handling, and payment-flow fixes. The linked repository belongs to the project organization; it is **not** my solo project.
+The SPA backend above is a **collaborative, organization-owned repository**. An [earlier backend repository](https://github.com/Muhammedsajid10/spaBackend) is available on my personal account. I also contributed to the [SPA Customer Booking App](https://github.com/novoxedtechllp-dotcom/spaUserLatest), including multi-service booking time calculations, UTC-to-local time handling, and payment-flow fixes. The linked repository belongs to the project organization; it is **not** my solo project.
 
 ## 🧰 Technical Skills
 
