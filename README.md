@@ -6,6 +6,8 @@ I build practical web applications and REST APIs, with hands-on experience in bo
 
 📍 Currently exploring **Full-Stack, MERN Stack, and Node.js Developer opportunities in the UAE**.
 
+🌐 **[Explore my live developer portfolio](https://muhammad-sajid-portfolio-zeta.vercel.app/)**
+
 ## 🔨 Featured Projects
 
 | Project | What I worked on | Tech |
@@ -38,6 +40,8 @@ The SPA backend above is a **collaborative, organization-owned repository**. The
 - Improving authentication, authorization, API integrations and overall maintainability
 
 ## 🤝 Connect
+
+- **Portfolio:** [muhammad-sajid-portfolio-zeta.vercel.app](https://muhammad-sajid-portfolio-zeta.vercel.app/)
 
 - **LinkedIn:** [linkedin.com/in/mhdsajid8939](https://www.linkedin.com/in/mhdsajid8939)
 - **GitHub:** [github.com/Muhammedsajid10](https://github.com/Muhammedsajid10)
