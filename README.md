@@ -13,6 +13,7 @@ I build practical web applications and REST APIs, with hands-on experience in bo
 | Project | What I worked on | Tech |
 | --- | --- | --- |
 | **[Allora / SPA Management — Latest Backend](https://github.com/novoxedtechllp-dotcom/spaBackLat)** | Contributed booking and employee scheduling backend changes in the organization's latest repository | Node.js, Express, MongoDB |
+| **[Kalyan Engineering — Product & Inventory Backend](https://github.com/novoxedtechllp-dotcom/kalyanBackEnd)** | Company project: backend APIs for product and sub-product records, categories, franchises, stock, authentication, and dashboard data; contributed as part of the team | Node.js, Express, MongoDB, JWT |
 | **[SPA Employee Dashboard](https://github.com/Muhammedsajid10/EmployeeSideSpa)** | React employee-facing application with authentication, schedules, and attendance workflows | React, Vite, REST APIs |
 | **[Travel Agency — Booking & Management Platform](https://github.com/Muhammedsajid10/travel-agency)** | Company project: developed React customer/admin interfaces and Node.js booking, packages, enquiries and management APIs | React, Node.js, Express, MongoDB |
 | **[SmartDukaan](https://github.com/Muhammedsajid10/smartdukaan)** | In-progress mobile shop management platform with POS, inventory, and purchase workflows | React, TypeScript, Express, MongoDB |
@@ -21,7 +22,7 @@ I build practical web applications and REST APIs, with hands-on experience in bo
 
 ### Collaborative SPA customer application
 
-The SPA backend above is a **collaborative, organization-owned repository**. The Travel Agency project listed above is also **company work**, not freelance work. An [earlier backend repository](https://github.com/Muhammedsajid10/spaBackend) is available on my personal account. I also contributed to the [SPA Customer Booking App](https://github.com/novoxedtechllp-dotcom/spaUserLatest), including multi-service booking time calculations, UTC-to-local time handling, and payment-flow fixes. The linked repository belongs to the project organization; it is **not** my solo project.
+The SPA and Kalyan backends above are **collaborative, organization-owned repositories**. The Travel Agency project listed above is also **company work**, not freelance work. An [earlier backend repository](https://github.com/Muhammedsajid10/spaBackend) is available on my personal account. I also contributed to the [SPA Customer Booking App](https://github.com/novoxedtechllp-dotcom/spaUserLatest), including multi-service booking time calculations, UTC-to-local time handling, and payment-flow fixes. The linked repository belongs to the project organization; it is **not** my solo project.
 
 ## 🧰 Technical Skills
 
